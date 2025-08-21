@@ -18,18 +18,17 @@ Published in *Journal of Computational Chemistry* (Wiley, 2025)
 📘 **Read the paper**:  
 [https://doi.org/10.1002/jcc.70206](https://doi.org/10.1002/jcc.70206)
 
----
 
-📚 **How to Use**:
+
+**How to Use**:
 - Clone or download this repository.
 - Run the provided `q_dftnet.py` script in a Python environment (e.g., Google Colab or Jupyter Notebook).
 - All plots and metrics will be automatically generated.
 
 > ⚠️ **Note**: Due to differences in Python library versions (e.g., PyTorch Geometric, Matplotlib), **minor variations in plots or metrics may occur**. These differences are expected and do not affect the overall conclusions of the paper.
 
----
 
-📑 **Cite this work**:
+**Cite this work**:
 ```bibtex
 @article{wayo2025q_dftnet,
   title={Q-DFTNet: A Chemistry-Informed Neural Network Framework for Predicting Molecular Dipole Moments via DFT-Driven QM9 Data},
