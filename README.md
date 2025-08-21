@@ -9,10 +9,9 @@ Q-DFTNet is a lightweight, chemistry-informed graph neural network (GNN) framewo
 
 This repository contains a **single, self-contained Python script** that reproduces all key visualizations (performance plots, latent space t-SNE, model complexity vs. accuracy) as presented in the paper.
 
----
 
-📄 **This repository supports the article**:  
-*“Q-DFTNet: A Chemistry-Informed Neural Network Framework for Predicting Molecular Dipole Moments via DFT-Driven QM9 Data”*  
+**This repository supports the article**:  
+“Q-DFTNet: A Chemistry-Informed Neural Network Framework for Predicting Molecular Dipole Moments via DFT-Driven QM9 Data”  
 Published in *Journal of Computational Chemistry* (Wiley, 2025)
 
 📘 **Read the paper**:  
@@ -37,6 +36,7 @@ Published in *Journal of Computational Chemistry* (Wiley, 2025)
   year={2025},
   doi={https://doi.org/10.1002/jcc.70206}
 }
+```
 
 🔒 **Copyright Notice**:
 
