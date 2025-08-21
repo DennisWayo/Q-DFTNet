@@ -21,10 +21,10 @@ Published in *Journal of Computational Chemistry* (Wiley, 2025)
 
 **How to Use**:
 - Clone or download this repository.
-- Run the provided `q_dftnet.py` script in a Python environment (e.g., Google Colab or Jupyter Notebook).
+- Run the provided `q_dftnet.py` script in a Python environment (Google Colab or Jupyter Notebook).
 - All plots and metrics will be automatically generated.
 
-> ⚠️ **Note**: Due to differences in Python library versions (e.g., PyTorch Geometric, Matplotlib), **minor variations in plots or metrics may occur**. These differences are expected and do not affect the overall conclusions of the paper.
+> ⚠️ **Note**: Due to differences in Python library versions (such as PyTorch Geometric, Matplotlib etc.), **minor variations in plots or metrics may occur**. These differences are expected and do not affect the overall conclusions of the paper.
 
 
 **Cite this work**:
